@@ -1,4 +1,4 @@
-[%header,cols="a",width="80%",frame="none",stripes="none"]
+[%header,cols="a",grid="none",width="80%",frame="none",stripes="none"]
 |===
 | Основные виды разрешённого использования
 | Для индивидуального жилищного строительства (код 2.1)
